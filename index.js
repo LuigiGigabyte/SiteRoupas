@@ -1,4 +1,3 @@
-
 window.onload = function loadFiles() {
   
   let header = document.getElementById('header');
@@ -100,7 +99,7 @@ window.onload = function loadFiles() {
       
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2022 Copyright: Site Roupas
+    © 2022 Copyright - Site Roupas
   </div>
   <!-- Copyright -->
     `
